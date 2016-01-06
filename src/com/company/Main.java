@@ -7,9 +7,18 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
+        
+ /*
+    
+    
+    Все задания реализованы в виде функций
+    
+    
+    */
 
          //int n=10;
        // int mass[] = {44,436 ,65,120,479,-120,11,246,1,13,126,15};   ///Масив для тестов
+
 
 
         Scanner scanner = new Scanner(System.in);
